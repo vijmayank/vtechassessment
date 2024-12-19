@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vtechassessment", "vtechassessment.csproj", "{3ECD434C-93AE-4EAD-8C68-D55338DD0D05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vtechassessmentTests", "..\vtechassessmentTests\vtechassessmentTests.csproj", "{AE6CF098-E583-4B3D-AD78-90E987DD40CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ECD434C-93AE-4EAD-8C68-D55338DD0D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ECD434C-93AE-4EAD-8C68-D55338DD0D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ECD434C-93AE-4EAD-8C68-D55338DD0D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ECD434C-93AE-4EAD-8C68-D55338DD0D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE6CF098-E583-4B3D-AD78-90E987DD40CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE6CF098-E583-4B3D-AD78-90E987DD40CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE6CF098-E583-4B3D-AD78-90E987DD40CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE6CF098-E583-4B3D-AD78-90E987DD40CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
